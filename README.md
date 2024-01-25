@@ -21,6 +21,8 @@ This is to facilitate interactive usage:
 
 **References**:
 
+Original ÚFAL repository - https://github.com/ufal/masapi-docfusion
+
 | name | description | code |
 |------|-------|------|
 | textrank | https://aclanthology.org/W04-3252.pdf | [pagerank](https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.link_analysis.pagerank_alg.pagerank.html) |
