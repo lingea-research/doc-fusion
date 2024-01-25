@@ -27,6 +27,10 @@ This is to facilitate interactive usage:
 | hierarchical clustering | [scikit user guide](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering) | [scikit docs](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html#sklearn.cluster.AgglomerativeClustering)
 |encoder | https://aclanthology.org/D19-1410.pdf | [huggingface](https://huggingface.co/sentence-transformers/distiluse-base-multilingual-cased-v2)
 
+## License
+
+DocFusion is licensed under Creative Commons BY-SA-NC (https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
 ## Installation
 python >= 3.6
 ```
